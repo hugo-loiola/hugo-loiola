@@ -8,10 +8,10 @@
 
 <details open>
   <summary><b><u>About Me</u></b></summary>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugo-loiola&show_icons=true&theme=dracula)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-loiola&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugo-loiola&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-loiola&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
@@ -19,9 +19,7 @@
   <summary><b><u>Tecnologies</u></b></summary>
 
 [![Titulo](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-
-[![Titulo](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-
+[![Titulo](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Titulo](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)]()
 
 </details>
